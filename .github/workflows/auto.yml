@@ -2,7 +2,7 @@ name: Auto
 
 on:
   schedule:
-    - cron: "0 0 30 2 *" # Runs every minute
+
   workflow_dispatch:
 
 env:
